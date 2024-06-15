@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['envoyer'])){
     $message = "Voici votre code : joyce033";
-    $destinataire = "carineteoi@gmail.com.com";
+    $destinataire = "carineteoi@gmail.com";
     $sujet = "Code de vérification";
 
     $headers = "From: carineteoi@gmail.com\r\n";
